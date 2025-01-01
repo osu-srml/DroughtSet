@@ -11,17 +11,13 @@ The raw dataset and preprocessed datasets are available at [google drive](https:
 ### Citing
 
 ```
-@article{
-yin2024federated,
-title={Federated Learning with Reduced Information Leakage and Computation},
-author={Tongxin Yin and Xuwei Tan and Xueru Zhang and Mohammad Mahdi Khalili and Mingyan Liu},
-journal={Transactions on Machine Learning Research},
-issn={2835-8856},
-year={2024},
-url={https://openreview.net/forum?id=ZJ4A3xhADV}
+@inproceedings{tan2024droughtset,
+  title={DroughtSet: Understanding Drought through Spatial-Temporal Learning},
+  author={Xuwei Tan and Qian Zhao and Yanlan Liu and Xueru Zhang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025}
 }
 ```
-
 ### Contact
 
 If you have any questions, you can contact me via email at tanxuwei99@gmail.com. You can also open an issue here, but please note that this repo is managed by a public account, so I might not see it immediately.
