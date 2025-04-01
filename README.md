@@ -2,7 +2,6 @@
 
 The raw dataset and preprocessed datasets are available at [google drive](https://drive.google.com/drive/folders/1TbDGow8OP1pGGz1TEm8-CetOJGgj1OEp?usp=sharing). 
 
-🚧The training code will be released in March 2025.
 
 ### Licensing
 
